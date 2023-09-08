@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>different.jpg</file>
+        <file>same.jpg</file>
+        <file>title.jpg</file>
+        <file>download.jpg</file>
+        <file>upload.jpg</file>
+        <file>login.jpg</file>
+        <file>sign.jpg</file>
+        <file>client.ico</file>
+        <file>logout.jpg</file>
+        <file>../localhost.cert</file>
+        <file>../localhost.key</file>
+    </qresource>
+</RCC>
